@@ -1,0 +1,5 @@
+# Ignorar tudo dentro da pasta target
+target/*
+
+# Mas manter os arquivos .jar
+!target/*.jar
